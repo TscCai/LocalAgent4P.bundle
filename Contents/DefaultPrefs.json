@@ -1,0 +1,15 @@
+[{
+        "id": "chk_HDPoster",
+        "label": "HD Poster: Download and resize the HD cover for poster.",
+        "type": "bool",
+        "default": "false"
+},{
+    	   "id":"txt_HDPosterProxy",
+    	   "label":"HD Poster Proxy: ",
+    	   "type":"text"
+},{
+    	   "id":"txt_DatabaseUrl",
+    	   "label":"Database URL: ",
+    	   "default":"http://your-local-agent-url/",
+    	   "type":"text"
+}]

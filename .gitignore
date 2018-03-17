@@ -240,3 +240,6 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/Contents/Code/__init__hack.py
+/Contents/Code/__init__ work.py
+/Contents/Code/test.py
